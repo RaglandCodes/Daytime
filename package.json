@@ -1,0 +1,14 @@
+{
+  "name": "calender",
+  "version": "1.0.0",
+  "description": "Delta task 3\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D WebDeb induction task 3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
